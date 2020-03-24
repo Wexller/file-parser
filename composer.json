@@ -1,0 +1,6 @@
+{
+  "require": {
+    "symfony/dom-crawler": "^5.0",
+    "ext-json": "*"
+  }
+}
